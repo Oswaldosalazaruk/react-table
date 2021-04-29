@@ -8,5 +8,5 @@ en formato Json. </h2>
 
 <h3>La tabla Enhanced para mostrar los datos es tambien tomada de Material-ui
 y se agrego un filtro en la barra del menu para mostrar los datos por usuarios
-seleccionados, aunque en realidad filtra por cada caracter entrado en el imput search</h3>
+seleccionados, aunque en realidad filtra por cada caracter entrado en el input search</h3>
 
